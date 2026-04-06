@@ -1,4 +1,4 @@
--- [[ ADVANCED FLASHBACK SYSTEM BY AI ]] --
+-- [[ ADVANCED FLASHBACK SYSTEM BY KERCX ]] --
 -- Optimized for Delta Executor (Mobile/PC)
 
 local player = game.Players.LocalPlayer
